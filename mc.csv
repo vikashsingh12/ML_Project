@@ -1,0 +1,201 @@
+﻿CustomerID,Gender_C,Gender,Age,Annual Income (k$),Spending Score (1-100),Cluster,Label
+1,Male,1,19,15,39,c4,Low Income and Low Spending
+2,Male,1,21,15,81,c3,Low Income and High Spending
+3,Female,0,20,16,6,c4,Low Income and Low Spending
+4,Female,0,23,16,77,c3,Low Income and High Spending
+5,Female,0,31,17,40,c4,Low Income and Low Spending
+6,Female,0,22,17,76,c3,Low Income and High Spending
+7,Female,0,35,18,6,c4,Low Income and Low Spending
+8,Female,0,23,18,94,c3,Low Income and High Spending
+9,Male,1,64,19,3,c4,Low Income and Low Spending
+10,Female,0,30,19,72,c3,Low Income and High Spending
+11,Male,1,67,19,14,c4,Low Income and Low Spending
+12,Female,0,35,19,99,c3,Low Income and High Spending
+13,Female,0,58,20,15,c4,Low Income and Low Spending
+14,Female,0,24,20,77,c3,Low Income and High Spending
+15,Male,1,37,20,13,c4,Low Income and Low Spending
+16,Male,1,22,20,79,c3,Low Income and High Spending
+17,Female,0,35,21,35,c4,Low Income and Low Spending
+18,Male,1,20,21,66,c3,Low Income and High Spending
+19,Male,1,52,23,29,c4,Low Income and Low Spending
+20,Female,0,35,23,98,c3,Low Income and High Spending
+21,Male,1,35,24,35,c4,Low Income and Low Spending
+22,Male,1,25,24,73,c3,Low Income and High Spending
+23,Female,0,46,25,5,c4,Low Income and Low Spending
+24,Male,1,31,25,73,c3,Low Income and High Spending
+25,Female,0,54,28,14,c4,Low Income and Low Spending
+26,Male,1,29,28,82,c3,Low Income and High Spending
+27,Female,0,45,28,32,c4,Low Income and Low Spending
+28,Male,1,35,28,61,c3,Low Income and High Spending
+29,Female,0,40,29,31,c4,Low Income and Low Spending
+30,Female,0,23,29,87,c3,Low Income and High Spending
+31,Male,1,60,30,4,c4,Low Income and Low Spending
+32,Female,0,21,30,73,c3,Low Income and High Spending
+33,Male,1,53,33,4,c4,Low Income and Low Spending
+34,Male,1,18,33,92,c3,Low Income and High Spending
+35,Female,0,49,33,14,c4,Low Income and Low Spending
+36,Female,0,21,33,81,c3,Low Income and High Spending
+37,Female,0,42,34,17,c4,Low Income and Low Spending
+38,Female,0,30,34,73,c3,Low Income and High Spending
+39,Female,0,36,37,26,c4,Low Income and Low Spending
+40,Female,0,20,37,75,c3,Low Income and High Spending
+41,Female,0,65,38,35,c0,Balanced - Aged
+42,Male,1,24,38,92,c3,Low Income and High Spending
+43,Male,1,48,39,36,c0,Balanced - Aged
+44,Female,0,31,39,61,c2,Balanced - Young
+45,Female,0,49,39,28,c4,Low Income and Low Spending
+46,Female,0,24,39,65,c3,Low Income and High Spending
+47,Female,0,50,40,55,c0,Balanced - Aged
+48,Female,0,27,40,47,c2,Balanced - Young
+49,Female,0,29,40,42,c2,Balanced - Young
+50,Female,0,31,40,42,c2,Balanced - Young
+51,Female,0,49,42,52,c0,Balanced - Aged
+52,Male,1,33,42,60,c2,Balanced - Young
+53,Female,0,31,43,54,c2,Balanced - Young
+54,Male,1,59,43,60,c0,Balanced - Aged
+55,Female,0,50,43,45,c0,Balanced - Aged
+56,Male,1,47,43,41,c0,Balanced - Aged
+57,Female,0,51,44,50,c0,Balanced - Aged
+58,Male,1,69,44,46,c0,Balanced - Aged
+59,Female,0,27,46,51,c2,Balanced - Young
+60,Male,1,53,46,46,c0,Balanced - Aged
+61,Male,1,70,46,56,c0,Balanced - Aged
+62,Male,1,19,46,55,c2,Balanced - Young
+63,Female,0,67,47,52,c0,Balanced - Aged
+64,Female,0,54,47,59,c0,Balanced - Aged
+65,Male,1,63,48,51,c0,Balanced - Aged
+66,Male,1,18,48,59,c2,Balanced - Young
+67,Female,0,43,48,50,c0,Balanced - Aged
+68,Female,0,68,48,48,c0,Balanced - Aged
+69,Male,1,19,48,59,c2,Balanced - Young
+70,Female,0,32,48,47,c2,Balanced - Young
+71,Male,1,70,49,55,c0,Balanced - Aged
+72,Female,0,47,49,42,c0,Balanced - Aged
+73,Female,0,60,50,49,c0,Balanced - Aged
+74,Female,0,60,50,56,c0,Balanced - Aged
+75,Male,1,59,54,47,c0,Balanced - Aged
+76,Male,1,26,54,54,c2,Balanced - Young
+77,Female,0,45,54,53,c0,Balanced - Aged
+78,Male,1,40,54,48,c2,Balanced - Young
+79,Female,0,23,54,52,c2,Balanced - Young
+80,Female,0,49,54,42,c0,Balanced - Aged
+81,Male,1,57,54,51,c0,Balanced - Aged
+82,Male,1,38,54,55,c2,Balanced - Young
+83,Male,1,67,54,41,c0,Balanced - Aged
+84,Female,0,46,54,44,c0,Balanced - Aged
+85,Female,0,21,54,57,c2,Balanced - Young
+86,Male,1,48,54,46,c0,Balanced - Aged
+87,Female,0,55,57,58,c0,Balanced - Aged
+88,Female,0,22,57,55,c2,Balanced - Young
+89,Female,0,34,58,60,c2,Balanced - Young
+90,Female,0,50,58,46,c0,Balanced - Aged
+91,Female,0,68,59,55,c0,Balanced - Aged
+92,Male,1,18,59,41,c2,Balanced - Young
+93,Male,1,48,60,49,c0,Balanced - Aged
+94,Female,0,40,60,40,c2,Balanced - Young
+95,Female,0,32,60,42,c2,Balanced - Young
+96,Male,1,24,60,52,c2,Balanced - Young
+97,Female,0,47,60,47,c0,Balanced - Aged
+98,Female,0,27,60,50,c2,Balanced - Young
+99,Male,1,48,61,42,c0,Balanced - Aged
+100,Male,1,20,61,49,c2,Balanced - Young
+101,Female,0,23,62,41,c2,Balanced - Young
+102,Female,0,49,62,48,c0,Balanced - Aged
+103,Male,1,67,62,59,c0,Balanced - Aged
+104,Male,1,26,62,55,c2,Balanced - Young
+105,Male,1,49,62,56,c0,Balanced - Aged
+106,Female,0,21,62,42,c2,Balanced - Young
+107,Female,0,66,63,50,c0,Balanced - Aged
+108,Male,1,54,63,46,c0,Balanced - Aged
+109,Male,1,68,63,43,c0,Balanced - Aged
+110,Male,1,66,63,48,c0,Balanced - Aged
+111,Male,1,65,63,52,c0,Balanced - Aged
+112,Female,0,19,63,54,c2,Balanced - Young
+113,Female,0,38,64,42,c2,Balanced - Young
+114,Male,1,19,64,46,c2,Balanced - Young
+115,Female,0,18,65,48,c2,Balanced - Young
+116,Female,0,19,65,50,c2,Balanced - Young
+117,Female,0,63,65,43,c0,Balanced - Aged
+118,Female,0,49,65,59,c0,Balanced - Aged
+119,Female,0,51,67,43,c0,Balanced - Aged
+120,Female,0,50,67,57,c0,Balanced - Aged
+121,Male,1,27,67,56,c2,Balanced - Young
+122,Female,0,38,67,40,c2,Balanced - Young
+123,Female,0,40,69,58,c2,Balanced - Young
+124,Male,1,39,69,91,c1,High Income and High Spending
+125,Female,0,23,70,29,c2,Balanced - Young
+126,Female,0,31,70,77,c1,High Income and High Spending
+127,Male,1,43,71,35,c5,High Income and Low Spending
+128,Male,1,40,71,95,c1,High Income and High Spending
+129,Male,1,59,71,11,c5,High Income and Low Spending
+130,Male,1,38,71,75,c1,High Income and High Spending
+131,Male,1,47,71,9,c5,High Income and Low Spending
+132,Male,1,39,71,75,c1,High Income and High Spending
+133,Female,0,25,72,34,c2,Balanced - Young
+134,Female,0,31,72,71,c1,High Income and High Spending
+135,Male,1,20,73,5,c5,High Income and Low Spending
+136,Female,0,29,73,88,c1,High Income and High Spending
+137,Female,0,44,73,7,c5,High Income and Low Spending
+138,Male,1,32,73,73,c1,High Income and High Spending
+139,Male,1,19,74,10,c5,High Income and Low Spending
+140,Female,0,35,74,72,c1,High Income and High Spending
+141,Female,0,57,75,5,c5,High Income and Low Spending
+142,Male,1,32,75,93,c1,High Income and High Spending
+143,Female,0,28,76,40,c2,Balanced - Young
+144,Female,0,32,76,87,c1,High Income and High Spending
+145,Male,1,25,77,12,c5,High Income and Low Spending
+146,Male,1,28,77,97,c1,High Income and High Spending
+147,Male,1,48,77,36,c5,High Income and Low Spending
+148,Female,0,32,77,74,c1,High Income and High Spending
+149,Female,0,34,78,22,c5,High Income and Low Spending
+150,Male,1,34,78,90,c1,High Income and High Spending
+151,Male,1,43,78,17,c5,High Income and Low Spending
+152,Male,1,39,78,88,c1,High Income and High Spending
+153,Female,0,44,78,20,c5,High Income and Low Spending
+154,Female,0,38,78,76,c1,High Income and High Spending
+155,Female,0,47,78,16,c5,High Income and Low Spending
+156,Female,0,27,78,89,c1,High Income and High Spending
+157,Male,1,37,78,1,c5,High Income and Low Spending
+158,Female,0,30,78,78,c1,High Income and High Spending
+159,Male,1,34,78,1,c5,High Income and Low Spending
+160,Female,0,30,78,73,c1,High Income and High Spending
+161,Female,0,56,79,35,c5,High Income and Low Spending
+162,Female,0,29,79,83,c1,High Income and High Spending
+163,Male,1,19,81,5,c5,High Income and Low Spending
+164,Female,0,31,81,93,c1,High Income and High Spending
+165,Male,1,50,85,26,c5,High Income and Low Spending
+166,Female,0,36,85,75,c1,High Income and High Spending
+167,Male,1,42,86,20,c5,High Income and Low Spending
+168,Female,0,33,86,95,c1,High Income and High Spending
+169,Female,0,36,87,27,c5,High Income and Low Spending
+170,Male,1,32,87,63,c1,High Income and High Spending
+171,Male,1,40,87,13,c5,High Income and Low Spending
+172,Male,1,28,87,75,c1,High Income and High Spending
+173,Male,1,36,87,10,c5,High Income and Low Spending
+174,Male,1,36,87,92,c1,High Income and High Spending
+175,Female,0,52,88,13,c5,High Income and Low Spending
+176,Female,0,30,88,86,c1,High Income and High Spending
+177,Male,1,58,88,15,c5,High Income and Low Spending
+178,Male,1,27,88,69,c1,High Income and High Spending
+179,Male,1,59,93,14,c5,High Income and Low Spending
+180,Male,1,35,93,90,c1,High Income and High Spending
+181,Female,0,37,97,32,c5,High Income and Low Spending
+182,Female,0,32,97,86,c1,High Income and High Spending
+183,Male,1,46,98,15,c5,High Income and Low Spending
+184,Female,0,29,98,88,c1,High Income and High Spending
+185,Female,0,41,99,39,c5,High Income and Low Spending
+186,Male,1,30,99,97,c1,High Income and High Spending
+187,Female,0,54,101,24,c5,High Income and Low Spending
+188,Male,1,28,101,68,c1,High Income and High Spending
+189,Female,0,41,103,17,c5,High Income and Low Spending
+190,Female,0,36,103,85,c1,High Income and High Spending
+191,Female,0,34,103,23,c5,High Income and Low Spending
+192,Female,0,32,103,69,c1,High Income and High Spending
+193,Male,1,33,113,8,c5,High Income and Low Spending
+194,Female,0,38,113,91,c1,High Income and High Spending
+195,Female,0,47,120,16,c5,High Income and Low Spending
+196,Female,0,35,120,79,c1,High Income and High Spending
+197,Female,0,45,126,28,c5,High Income and Low Spending
+198,Male,1,32,126,74,c1,High Income and High Spending
+199,Male,1,32,137,18,c5,High Income and Low Spending
+200,Male,1,30,137,83,c1,High Income and High Spending
